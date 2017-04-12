@@ -17,7 +17,7 @@ variable "aws_region" {
 }
 
 variable "countthis" {
-  default = "2"
+  default = "3"
 }
 
 provider "aws" {
